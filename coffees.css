@@ -25,7 +25,19 @@ section {
 
 h3 {
 	font-size: 15px;
-	margin: 14px;
+	margin-left: 14px;
+	margin-bottom: 8px;
 	/* FIXME: 下划线向右扩展 */
 	text-decoration: underline;
+}
+
+ul {
+	list-style: none;
+	padding-left: 14px;
+	margin-top: 8px;
+}
+
+li {
+	/* border: solid 1px #000; */
+	margin-bottom: 3px;
 }
