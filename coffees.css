@@ -38,7 +38,6 @@ ul {
 }
 
 li {
-	/* border: solid 1px #000; */
 	margin-bottom: 3px;
 }
 
@@ -62,4 +61,10 @@ em {
 	font-style: normal;
 	font-weight: normal;
 	float: right;
+}
+
+span {
+	background: #eee;
+	text-indent: -9999px;
+	display: block;
 }
