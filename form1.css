@@ -1,0 +1,10 @@
+/* reset */
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.form {
+	background: #eee;
+	border: solid 1px #000;
+}
