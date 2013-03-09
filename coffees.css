@@ -41,3 +41,13 @@ li {
 	/* border: solid 1px #000; */
 	margin-bottom: 3px;
 }
+
+a {
+	display: block;
+}
+
+em {
+	font-style: normal;
+	float: right;
+	margin-right: 8px;
+}
