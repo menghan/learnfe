@@ -46,6 +46,10 @@ a {
 	display: block;
 }
 
+a:hover {
+	background: #999;
+}
+
 em {
 	font-style: normal;
 	float: right;
