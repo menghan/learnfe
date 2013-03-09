@@ -35,3 +35,7 @@ input, textarea {
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 }
+
+input:focus, textarea:focus {
+	background: #fff;
+}
