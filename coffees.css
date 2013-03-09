@@ -39,12 +39,15 @@ ul {
 
 li {
 	margin-bottom: 3px;
+	position: relative;
 }
 
 a {
 	display: block;
 	padding: 2px;
 	padding-right: 8px;
+	position: relative;
+	z-index: 2;
 }
 
 a:link {
@@ -67,4 +70,7 @@ span {
 	background: #eee;
 	text-indent: -9999px;
 	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
 }
